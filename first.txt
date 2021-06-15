@@ -10,3 +10,4 @@ Gitの練習をしていく。
 .git commit --amend
 .git merge
 conflict
+pull request
